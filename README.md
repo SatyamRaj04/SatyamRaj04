@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamraj04&label=Profile%20views&color=0e75b6&style=flat" alt="satyamraj04" /> </p>
 
-- 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Spring Boot, API**
+- 🌱 I’m currently learning **Spring Boot, Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SatyamRaj04](https://github.com/SatyamRaj04)
 
